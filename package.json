@@ -57,7 +57,7 @@
         }
     },
     "dependencies": {
-        "@babel/runtime": "7.26.10",
+        "@babel/runtime": "7.28.4",
         "axios": "1.11.0",
         "bignumber.js": "9.1.2",
         "ethereum-cryptography": "2.2.1",
